@@ -1,0 +1,5 @@
+.pandas
+.os
+.numpy
+.cv2
+.matplotlib
